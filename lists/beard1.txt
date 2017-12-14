@@ -51,3 +51,5 @@ http://www.weeklystandard.com/rss/Stephen+F.+Hayes/rss.xml
 http://feeds.feedburner.com/OpenCulture
 http://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
 https://www.huffingtonpost.com/section/media/feed
+https://www.theverge.com/rss/index.xml
+https://www.memeorandum.com/feed.xml
