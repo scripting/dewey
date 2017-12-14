@@ -42,3 +42,5 @@ https://www.themarshallproject.org/rss/recent.rss
 https://www.newyorker.com/feed/news/john-cassidy
 http://rss.nytimes.com/services/xml/rss/nyt/Movies.xml
 https://lens.blogs.nytimes.com/feed/
+https://www.recode.net/rss/current
+
