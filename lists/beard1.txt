@@ -43,4 +43,11 @@ https://www.newyorker.com/feed/news/john-cassidy
 http://rss.nytimes.com/services/xml/rss/nyt/Movies.xml
 https://lens.blogs.nytimes.com/feed/
 https://www.recode.net/rss/current
-
+http://feeds.feedburner.com/shorensteincenter/MediaAndPoliticsPodcast
+http://dankennedy.net/feed
+http://www.weeklystandard.com/rss/Matthew+Continetti/rss.xml
+http://www.weeklystandard.com/rss/Andrew+Ferguson/rss.xml
+http://www.weeklystandard.com/rss/Stephen+F.+Hayes/rss.xml
+http://feeds.feedburner.com/OpenCulture
+http://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
+https://www.huffingtonpost.com/section/media/feed
